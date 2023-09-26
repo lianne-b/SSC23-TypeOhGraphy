@@ -1,1 +1,1 @@
-# SSC23-TypeOhGraphy
+# TypeOhGraphy!
