@@ -1,6 +1,6 @@
 # TypeOhGraphy!
 
-### Kinetic Typography & Communication**
+### Kinetic Typography & Communication
 
 “Moving” Typography in your hand.
 The app is designed to explore the potential of kinetic typography and its effectiveness in conveying emotions, providing evidences to why **kinetic types shape better communication.**
