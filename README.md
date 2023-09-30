@@ -8,3 +8,8 @@ In the end, it aims to arouse the questions of how can typography evolve further
 </br>
 </br>
 *For: WWDC Swift Student Challenge 2023 (Accepted)*
+
+
+
+https://github.com/lianne-b/SSC23-TypeOhGraphy/assets/89244357/f0a041ca-9337-452f-a537-e8e8e6a08c53
+
